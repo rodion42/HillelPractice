@@ -7,7 +7,7 @@ public class Main {
             myList.add(i);
         }
 
-        
+
         System.out.println(myList);
     }
 }
